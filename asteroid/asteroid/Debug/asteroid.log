@@ -1,0 +1,106 @@
+﻿Build started 12/1/2015 11:09:36 AM.
+     1>Project "C:\Users\kpdyer\Documents\Visual Studio 2013\Projects\csc461\asteroid\asteroid\asteroid.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\kpdyer\Desktop\freeglut-MSVC-3.0.0-2.mp\freeglut\include" /I"C:\Users\kpdyer\Desktop\freeglut-MSVC-3.0.0-2.mp\freeglut\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(84): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(85): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(86): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(129): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(130): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(161): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(162): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(193): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(194): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(225): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(266): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(314): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(316): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(319): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(339): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(355): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(437): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(442): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(446): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(451): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(455): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(456): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(457): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(486): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(487): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(488): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(489): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(490): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(519): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(520): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(521): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(522): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(523): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(551): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(555): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(556): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(557): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(558): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(576): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(579): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(581): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(666): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(668): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(669): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(675): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(677): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(678): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(686): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(692): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(693): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(708): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(713): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(721): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(735): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(740): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(748): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(762): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(764): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(767): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(775): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(809): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(810): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(821): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(839): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(843): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(865): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(881): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(903): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(909): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(910): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(920): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(924): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(941): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(945): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(959): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(962): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(966): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(995): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(1003): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(1004): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(1015): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(1028): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(1032): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(1049): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(1057): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(1063): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(1086): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(1087): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(1197): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(1254): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(1255): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kpdyer\documents\visual studio 2013\projects\csc461\asteroid\asteroid\main.cpp(1345): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\kpdyer\Documents\Visual Studio 2013\Projects\csc461\asteroid\Debug\asteroid.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\kpdyer\Desktop\freeglut-MSVC-3.0.0-2.mp\freeglut\lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\kpdyer\Documents\Visual Studio 2013\Projects\csc461\asteroid\Debug\asteroid.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\kpdyer\Documents\Visual Studio 2013\Projects\csc461\asteroid\Debug\asteroid.lib" /MACHINE:X86 Debug\main.obj
+         asteroid.vcxproj -> C:\Users\kpdyer\Documents\Visual Studio 2013\Projects\csc461\asteroid\Debug\asteroid.exe
+     1>Done Building Project "C:\Users\kpdyer\Documents\Visual Studio 2013\Projects\csc461\asteroid\asteroid\asteroid.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.24
